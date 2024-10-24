@@ -6,85 +6,39 @@ header{
     background-color: aliceblue;
 }
 
+.name{
+    font-size: 25px;
+    font-family: monospace;
+}
 
 
+.intro{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.pfp{ 
+    width: 300px;
+    height: 300px;}
 .like{
     font-size: 20px;
     font-family: monospace;
 }
 
-
-
-
-.Talena{}
-
-.pfpTalena{
-    width: 300px;
-    height: 300px;
-}
-
-.textTalena{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-.firstListTalena{
+.firstList{
     font-size: 20px;
     font-family: monospace;
 }
-.secondListTalena{
+.secondList{
     font-size: 20px;
     font-family: monospace;
 }
-.thirdListTalena{
+.thirdList{
     font-size: 20px;
     font-family: monospace;
 }
 
+.banner{
 
-
-.Valeria{}
-
-.pfpValeria{}
-
-.textValeria{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-.firstListValeria{
-    font-size: 20px;
-    font-family: monospace;
-}
-.secondListValeria{
-    font-size: 20px;
-    font-family: monospace;
-}
-.thirdListValeria{
-    font-size: 20px;
-    font-family: monospace;
-}
-
-
-.Rebeca{}
-
-.pfpRebeca{}
-
-.textRebeca{
-    font-size: 25px;
-    font-family: monospace;
-}
-
-.firstListRebeca{
-    font-size: 20px;
-    font-family: monospace;
-}
-.secondListRebeca{
-    font-size: 20px;
-    font-family: monospace;
-}
-.thirdListRebeca{
-    font-size: 20px;
-    font-family: monospace;
 }
 
