@@ -14,33 +14,45 @@ main{
 }
 
 .name{
-    font-size: 15px;
+    font-size: 28px;
     font-family: monospace;
     font-style: oblique;
     font-weight: 900;
 }
 
 .intro{
-    font-size: 25px;
+    font-size: 18px;
     font-family: monospace;
+    display: flex;
+    justify-content: center;
 }
 
 .pfp{ 
     max-width: 250px;
     background-color: rgb(212, 255, 192);
+    display: flex;
+    justify-content: center;
 }
 
 .like{
-    font-size: 30px;
+    font-size: 22px;
     font-family: monospace;
+    font-style: oblique;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-around;
 }
 
 .likeList{
-    font-size: 10px;
+    font-size: 18px;
     font-family: monospace;
+    display: flex;
+    justify-content: center;
 }
 
 .banner{
     max-width: 1000px;
+    display: flex;
+    justify-content: center;
 }
 
