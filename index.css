@@ -6,39 +6,6 @@ header{
     background-color: aliceblue;
 }
 
-h1{
-    display:flex;
-    justify-content: center;
-    font-size: 60px;
-}
-
-h2{
-    display:flex;
-    justify-content: center;
-    font-size: 30px;
-}
-
-.allCards{
-    display: flex;
-    flex-flow: row;
-    justify-content: center;
-}
-
-footer{
-    text-align: center;
-}
-
-
-.sunJing{
-    width: 300px;
-    height: 300px;
-}
-
-
-.textTalena{
-    font-size: 25px;
-    font-family: monospace;
-}
 
 
 .like{
@@ -47,41 +14,77 @@ footer{
 }
 
 
+
+
+.Talena{}
+
+.pfpTalena{
+    width: 300px;
+    height: 300px;
+}
+
+.textTalena{
+    font-size: 25px;
+    font-family: monospace;
+}
+
 .firstListTalena{
     font-size: 20px;
     font-family: monospace;
 }
-
-
 .secondListTalena{
     font-size: 20px;
     font-family: monospace;
 }
-
-
 .thirdListTalena{
     font-size: 20px;
     font-family: monospace;
 }
 
-.iconClaire{
-    width: 320px;
-    height: 250px;
+
+
+.Valeria{}
+
+.pfpValeria{}
+
+.textValeria{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.firstListValeria{
+    font-size: 20px;
+    font-family: monospace;
+}
+.secondListValeria{
+    font-size: 20px;
+    font-family: monospace;
+}
+.thirdListValeria{
+    font-size: 20px;
+    font-family: monospace;
 }
 
 
-.iconReyna{
-    width: 320px;
-    height: 250px;
+.Rebeca{}
+
+.pfpRebeca{}
+
+.textRebeca{
+    font-size: 25px;
+    font-family: monospace;
 }
 
-
-.iconScream{
-    width: 320px;
-    height: 250px;
+.firstListRebeca{
+    font-size: 20px;
+    font-family: monospace;
+}
+.secondListRebeca{
+    font-size: 20px;
+    font-family: monospace;
+}
+.thirdListRebeca{
+    font-size: 20px;
+    font-family: monospace;
 }
 
-.iconSecondHand{
-    width: 300px;
-    height: 200px;
-}
