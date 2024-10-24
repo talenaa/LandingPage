@@ -33,11 +33,13 @@ main{
 }
 
 .pfp{ 
-    max-width: 250px;
     background-color: rgb(212, 255, 192);
-    display: flex;
-   
+    display: block;
+    width: 250px;
+    margin: auto;   
 }
+
+
 
 .like{
     font-size: 22px;
