@@ -1,4 +1,4 @@
-# demo-html
+# Landing Page
 ### Project proposal
 ---
 This Github repository is created to upload the exercise "Proyecto - Landing Page"" performed in my local repository that meets the following requirements:
