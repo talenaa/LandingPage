@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: rgba(255, 64, 242, 0.647);
+    background-color: rgba(252, 74, 240, 0.553);
     display: flex;
     justify-content: center;
     font-size: 25px;
@@ -34,7 +34,7 @@ main{
 }
 
 .pfp{ 
-    max-width: 250px;
+    width: 250px;
     display: flex;
     margin: auto;
 }
@@ -62,11 +62,15 @@ main{
     justify-content: center;
 }
 
-.banner{
-    max-width:1000px;
+table{
     display: flex;
     justify-content: center;
-    
+}
+
+.banner{
+    max-width:500px;
+    display: flex;
+    justify-content: center;
 }
 
 footer{
@@ -75,18 +79,22 @@ footer{
     font-family: monospace;
     background-color: rgba(155, 248, 139, 0.69);
 }
+
 .valeria{
     width:25px;
     background-color: rgb(255, 0, 234);
 }
+
 .talena{
     width:25px;
     background-color: rgb(0, 0, 255);
 }
+
 .rebeca{
     width:25px;
     background-color: rgb(0, 196, 16);
 }
+
 .github{
     display: flex;
     justify-content: center;
