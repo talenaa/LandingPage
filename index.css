@@ -1,16 +1,24 @@
 body{
-    background-color:rgb(244, 250, 255);
+    background-color:rgba(198, 55, 255, 0.57);    
 }
 
 header{
     background-color: aliceblue;
 }
 
-.name{
-    font-size: 25px;
-    font-family: monospace;
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(155, 248, 139, 0.69);
 }
 
+.name{
+    font-size: 15px;
+    font-family: monospace;
+    font-style: oblique;
+    font-weight: 900;
+}
 
 .intro{
     font-size: 25px;
@@ -18,27 +26,21 @@ header{
 }
 
 .pfp{ 
-    width: 300px;
-    height: 300px;}
+    max-width: 250px;
+    background-color: rgb(212, 255, 192);
+}
+
 .like{
-    font-size: 20px;
+    font-size: 30px;
     font-family: monospace;
 }
 
-.firstList{
-    font-size: 20px;
-    font-family: monospace;
-}
-.secondList{
-    font-size: 20px;
-    font-family: monospace;
-}
-.thirdList{
-    font-size: 20px;
+.likeList{
+    font-size: 10px;
     font-family: monospace;
 }
 
 .banner{
-
+    max-width: 1000px;
 }
 
