@@ -63,11 +63,6 @@ main{
     justify-content: center;
 }
 
-table{
-    display: flex;
-    justify-content: center;
-}
-
 .banner{
     max-width:500px;
     display: flex;
